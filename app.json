@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e9b1741-5b0b-4eee-80af-fee7ee9faeac"
+      }
+    },
+    "owner": "jimothy"
   }
 }
